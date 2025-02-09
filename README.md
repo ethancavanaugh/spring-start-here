@@ -3,4 +3,5 @@
 - Exercise 1: Creating a maven project and a spring context
 - Exercise 2: Java-based container configuration; adding a bean to the context
 - Exercises 3-5: Working with multiple beans of the same type by naming beans and @Primary annotation
-- Exercises 6-7: Stereotype annotations (@Component); @PostConstruct
+- Exercises 6-7: Stereotype annotations (@Component, @Service, etc.); @PostConstruct
+- Exercise 8: Adding beans to context using registerBean() method
