@@ -5,3 +5,6 @@
 - Exercises 3-5: Working with multiple beans of the same type by naming beans and @Primary annotation
 - Exercises 6-7: Stereotype annotations (@Component, @Service, etc.); @PostConstruct
 - Exercise 8: Adding beans to context using registerBean() method
+
+## Chapter 3
+- Exercises 1-2: Directly wiring beans in config class
