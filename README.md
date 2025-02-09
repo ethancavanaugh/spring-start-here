@@ -9,3 +9,4 @@
 ## Chapter 3
 - Exercises 1-2: Directly wiring beans in config class
 - Exercise 3: Dependency injection in @Bean definition
+- Exercises 4-6: Different methods of DI (constructor, field, and setter)
