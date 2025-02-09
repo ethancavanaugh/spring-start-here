@@ -1,2 +1,4 @@
 # Exercises From Spring Start Here by Larentiu Spilca
-- Ex1: Creating a maven project and a spring context
+## Chapter 2
+- Exercise 1: Creating a maven project and a spring context
+- Exercise 2: Java-based container configuration; adding a bean to the context
