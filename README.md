@@ -8,3 +8,4 @@
 
 ## Chapter 3
 - Exercises 1-2: Directly wiring beans in config class
+- Exercise 3: Dependency injection in @Bean definition
