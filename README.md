@@ -12,3 +12,4 @@
 - Exercises 4-6: Different methods of DI (constructor, field, and setter)
 - Excercise 7: Circular dependencies
 - Exercise 8: Customizing autowiring with @Qualifier 
+- Exercise 9-10: @Qualifier annotation used with stereotype annotation
