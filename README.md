@@ -1,4 +1,5 @@
 # Exercises From Spring Start Here by Larentiu Spilca
+
 ## Chapter 2 - Defining Beans
 - Exercise 1: Creating a maven project and a spring context
 - Exercise 2: Java-based container configuration; adding a bean to the context
@@ -13,3 +14,6 @@
 - Excercise 7: Circular dependencies
 - Exercise 8: Customizing autowiring with @Qualifier 
 - Exercise 9-10: @Qualifier annotation used with stereotype annotation
+
+## Chapter 4 - Using Abstractions
+- Exercise 1: Interfaces without Spring
