@@ -17,3 +17,4 @@
 
 ## Chapter 4 - Using Abstractions
 - Exercise 1: Interfaces without Spring
+- Exercise 2: Dependency injection with interfaces
