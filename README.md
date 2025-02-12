@@ -23,3 +23,4 @@
 ## Chapter 5 - Bean Scope & Lifecycle
 - Exercise 1: Singleton beans using @Bean
 - Exercise 2: Singleton beans using stereotype annotations
+- Exercise 3-4: Eager vs Lazy initialization
