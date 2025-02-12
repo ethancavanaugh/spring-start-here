@@ -30,3 +30,4 @@
 ## Chapter 6 - Aspect Oriented Programming
 - Exercise 1: Declaring aspects and advice
 - Exercise 2: Accessing arguments and return value in an aspect
+- Exercise 3: Altering the intercepted method's arguments/return value
