@@ -32,3 +32,4 @@
 - Exercise 2: Accessing arguments and return value in an aspect
 - Exercise 3: Altering the intercepted method's arguments/return value
 - Exercise 4: Intercepting methods with a custom annotation
+- Exercise 6: Chaining and ordering multiple pieces of advice on the same join point
