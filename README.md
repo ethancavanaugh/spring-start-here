@@ -26,3 +26,7 @@
 - Exercises 3-4: Eager vs Lazy initialization
 - Exercise 5: Prototype scope beans
 - Exercise 6: Prototype beans using stereotype annotations
+
+## Chapter 6 - Aspect Oriented Programming
+- Exercise 1: Declaring aspects and advice
+- Exercise 2: Accessing arguments and return value in an aspect
