@@ -25,3 +25,4 @@
 - Exercise 2: Singleton beans using stereotype annotations
 - Exercises 3-4: Eager vs Lazy initialization
 - Exercise 5: Prototype scope beans
+- Exercise 6: Prototype beans using stereotype annotations
