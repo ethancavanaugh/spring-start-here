@@ -39,3 +39,4 @@
 
 ## Chapter 8 - Spring Boot & Spring MVC Web Apps
 - Exercise 1: Template engines (Thymeleaf)
+- Exercise 2: Request parameters
