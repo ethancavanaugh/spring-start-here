@@ -41,3 +41,4 @@
 - Exercise 1: Template engines (Thymeleaf)
 - Exercise 2: Request parameters
 - Exercise 3: Path variables
+- Exercise 5: HTTP method specific handlers
