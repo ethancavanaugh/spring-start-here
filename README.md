@@ -33,3 +33,9 @@
 - Exercise 3: Altering the intercepted method's arguments/return value
 - Exercise 4: Intercepting methods with a custom annotation
 - Exercise 6: Chaining and ordering multiple pieces of advice on the same join point
+
+## Chapter 7 - Intro to Spring Boot & Spring MVC
+- Exercise 1: A first Spring Boot app
+
+## Chapter 8 - Spring Boot & Spring MVC Web Apps
+- Exercise 1: Template engines (Thymeleaf)
