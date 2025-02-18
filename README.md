@@ -42,3 +42,6 @@
 - Exercise 2: Request parameters
 - Exercise 3: Path variables
 - Exercise 5: HTTP method specific handlers
+
+## Chapter 9 - Spring Web Scopes
+- Exercise 1: Request scoped beans
