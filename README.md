@@ -46,3 +46,4 @@
 ## Chapter 9 - Spring Web Scopes
 - Exercise 1: Request scoped beans
 - Exercise 2: Session scoped beans
+- Exercise 3: Application scoped beans
