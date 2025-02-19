@@ -47,3 +47,6 @@
 - Exercise 1: Request scoped beans
 - Exercise 2: Session scoped beans
 - Exercise 3: Application scoped beans
+
+## Chapter 10 - REST Services
+- Exercises 1-2: Simple REST controller
