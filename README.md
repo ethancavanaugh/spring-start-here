@@ -50,3 +50,4 @@
 
 ## Chapter 10 - REST Services
 - Exercises 1-2: Simple REST controller
+- Exercise 3: Objects and collections in response body
