@@ -53,3 +53,4 @@
 - Exercise 3: Objects and collections in response body
 - Exercise 4: Setting response status & headers (ResponseEntity)
 - Exercise 5: Managing exceptions in controller
+- Exercise 6: Managing exceptions with controller advice
