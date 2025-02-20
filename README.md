@@ -1,5 +1,7 @@
 # Exercises From Spring Start Here by Larentiu Spilca
 
+Trying to learn a bit more about how Spring works behind the scenes, different ways to do things, and the tradeoffs between them.
+
 ## Chapter 2 - Defining Beans
 - Exercise 1: Creating a maven project and a spring context
 - Exercise 2: Java-based container configuration; adding a bean to the context
@@ -54,3 +56,4 @@
 - Exercise 4: Setting response status & headers (ResponseEntity)
 - Exercise 5: Managing exceptions in controller
 - Exercise 6: Managing exceptions with controller advice
+- Exercise 7: Recieving request body data
