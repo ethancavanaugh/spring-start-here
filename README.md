@@ -57,3 +57,7 @@ Trying to learn a bit more about how Spring works behind the scenes, different w
 - Exercise 5: Managing exceptions in controller
 - Exercise 6: Managing exceptions with controller advice
 - Exercise 7: Recieving request body data
+
+## Chapter 11 - Consuming REST Endpoints
+- Payments service: Exposes a REST endpoint to be used by the following exercises
+- 
