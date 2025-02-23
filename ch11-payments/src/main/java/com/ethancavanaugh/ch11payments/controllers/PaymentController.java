@@ -25,7 +25,7 @@ public class PaymentController {
         payment.setId(UUID.randomUUID().toString());
 
         return ResponseEntity
-                .status(HttpStatus.ACCEPTED)
+                .status(HttpStatus.OK)
                 .header("requestId", requestId)
                 .body(payment);
     }
