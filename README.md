@@ -61,3 +61,4 @@ Trying to learn a bit more about how Spring works behind the scenes, different w
 ## Chapter 11 - Consuming REST Endpoints
 - Payments service: Exposes a REST endpoint to be used by the following exercises
 - Exercise 1: Spring Cloud OpenFeign
+- Exercise 2: RestTemplate (deprecated)
