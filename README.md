@@ -63,3 +63,6 @@ Trying to learn a bit more about how Spring works behind the scenes, different w
 - Exercise 1: Spring Cloud OpenFeign
 - Exercise 2: RestTemplate (deprecated)
 - Exercise 3: WebClient (reactive)
+
+## Chapter 12
+- Exercise 1: JDBCTemplate with an in-memory H2 DB
