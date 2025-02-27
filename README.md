@@ -67,3 +67,5 @@ Trying to learn a bit more about how Spring works behind the scenes, different w
 ## Chapter 12
 - Exercise 1: JDBCTemplate with an in-memory H2 DB
 - Exercise 2: Using an external MySQL DB
+- Exercise 3: Custom datasource beans
+
