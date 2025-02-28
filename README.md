@@ -71,3 +71,6 @@ Trying to learn a bit more about how Spring works behind the scenes, different w
 
 ## Chapter 13 - Transactions
 - Exercises 1 & 2: Transactional methods
+
+## Chapter 14 - Spring Data
+- Exercise 1: Spring Data JDBC Repositories
