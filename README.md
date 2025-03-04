@@ -74,3 +74,6 @@ Trying to learn a bit more about how Spring works behind the scenes, different w
 
 ## Chapter 14 - Spring Data
 - Exercise 1: Spring Data JDBC Repositories
+
+## Chapter 15 - Testing
+Exercise 1 - Unit testing & Integration Testing
